@@ -1,8 +1,10 @@
 # Small and simple PWA using REACT
+
 ![pwa](./public/images/pwa-react.jpg "pwa")
 
-
 # Weather App
+
+### [<span style="color:#0064bd">LIVE PREVIEW</span>](https://pwa-weather-freivin-campbell.netlify.app/)
 
 ### Desktop view:
 ![desktop](./public/images/desktop.png "desktop")
@@ -44,7 +46,7 @@ You will also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified, and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
