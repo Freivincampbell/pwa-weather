@@ -2,12 +2,12 @@
 ![pwa](./public/images/pwa-react.jpg "pwa")
 
 
-## Weather App
+# Weather App
 
-## Desktop view
+### Desktop view:
 ![desktop](./public/images/desktop.png "desktop")
 
-## Mobile View
+### Mobile View:
 ![mobile](./public/images/mobile.png "mobile")
 
 ### Technologies used to build this project
