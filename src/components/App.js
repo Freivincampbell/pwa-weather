@@ -24,23 +24,21 @@ const App = () => {
 	};
 
 	return (
-		<>
-			<div className="main-container">
-				<div className="app-name">
-					<h1>Weather PWA</h1>
-				</div>
-				<input
-					type="text"
-					placeholder="Search a city ..."
-					className="search"
-					value={query}
-					onChange={(e) => setQuery(e.target.value)}
-					onKeyPress={search}
-				/>
-				{weather.main && <WeatherInfo weather={weather} />}
-				{error && <NoInfoFetchCard />}
+		<div className="main-container">
+			<div className="app-name">
+				<h1>Weather PWA</h1>
 			</div>
-		</>
+			<input
+				type="text"
+				placeholder="Search a city ..."
+				className="search"
+				value={query}
+				onChange={(e) => setQuery(e.target.value)}
+				onKeyPress={search}
+			/>
+			{weather.main && <WeatherInfo weather={weather} />}
+			{error && <NoInfoFetchCard />}
+		</div>
 	);
 };
 
