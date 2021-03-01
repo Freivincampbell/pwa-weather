@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Small and simple PWA using REACT
+![pwa](./public/images/pwa-react.jpg "pwa")
+
+
+## Weather App
+
+## Desktop view
+![desktop](./public/images/desktop.png "desktop")
+
+## Mobile View
+![mobile](./public/images/mobile.png "mobile")
+
+### Technologies used to build this project
+1. [React](https://reactjs.org/)
+2. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [Axios](https://github.com/axios/axios)
+4. [Openweathermap API](https://openweathermap.org/)
+5. [Prettier](https://github.com/prettier/prettier)
+6. [Jestjs](https://jestjs.io/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +25,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn intall`
+ - To install all the dependencies, then you are ready to the start's command
 ### `yarn start`
+- To run up the sever you only need to run the command above, and look up your favorite cities' weather
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -15,9 +37,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# sooner
 
 ### `yarn build`
 
