@@ -2,7 +2,7 @@
 
 ![pwa](./public/images/pwa-react.jpg "pwa")
 
-# Weather App
+# Weather App s
 
 ### [<span style="color:#0064bd">LIVE PREVIEW</span>](https://pwa-weather-freivin-campbell.netlify.app/)
 
